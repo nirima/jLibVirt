@@ -12,7 +12,7 @@
     <name>jLibVirt</name>
     <description>Java library for communicating with libvirtd</description>
 
-    <url>https://github.com/magnayn/jLibVirt</url>
+    <url>https://github.com/nirima/jLibVirt</url>
 
     <licenses>
         <license>
@@ -22,8 +22,9 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/magnayn/jLibVirt</url>
-        <connection>scm:git:ssh://git@github.com/magnayn/jLibVirt.git</connection>
+        <url>https://github.com/nirima/jLibVirt</url>
+        <connection>scm:git:ssh://git@github.com/nirima/jLibVirt.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/nirima/jLibVirt.git</developerConnection>
     </scm>
 
     <parent>
