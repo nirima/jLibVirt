@@ -4,7 +4,7 @@
 
     <groupId>com.nirima.jlibvirt</groupId>
     <artifactId>jlibvirt</artifactId>
-    <version>0.3-SNAPSHOT</version>
+    <version>0.2.1</version>
     <packaging>jar</packaging>
 
     <name>jLibVirt</name>
